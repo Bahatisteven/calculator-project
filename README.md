@@ -1,0 +1,3 @@
+- Added the main HTML structure for the calculator.
+- Included CSS for basic layout and styling.
+- JavaScript file created to handle user interactions and calculations.
